@@ -1,0 +1,239 @@
+﻿<!--
+      *********    NO MODIFIQUE ESTE ARCHIVO     *********
+      Este archivo se regenera mediante una herramienta de diseño.
+       Si realiza cambios en este archivo, puede causar errores.
+-->
+<EjemploDatos:EjemploDatos xmlns:EjemploDatos="using:Blend.SampleData.EjemploDatos" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <EjemploDatos:EjemploDatos.Groups>
+    <EjemploDatos:Group Nombre="Nam sed aenean" Fecha="November 5, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Est curae praesent cras" Property2="Hac leo mus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Duis accumsan bibendum" Property2="Nec dictumst" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Eleifend integer non mauris" Property2="Donec nullam etiam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Nunc aptent fusce" Property2="Facilisi faucibus lorem" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Morbi nulla habitant" Property2="Per proin" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Auctor quisque augue" Property2="Sed amet ante" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Vivamus sem inceptos" Property2="Arcu dolor" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Interdum lobortis sit" Property2="Diam nascetur vel" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Fames nam congue eget" Property2="Elit cursus pharetra" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Aliquam aliquet dictum" Property2="Placerat blandit lectus commodo" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Sed dis felis" Fecha="December 29, 2006" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Justo conubia libero" Property2="Pulvinar cubilia erat ligula" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Est sagittis dapibus" Property2="Lacus egestas" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Euismod litora" Property2="Lorem senectus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Sociosqu magna eros" Property2="Massa hac" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Luctus metus" Property2="Magnis mattis suscipit" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Morbi neque mauris" Property2="Nibh feugiat" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Mollis gravida iaculis" Property2="Netus nulla torquent nisi" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Ultrices vehicula montes" Property2="Porta leo volutpat nisl" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Lacinia mus nunc" Property2="Nec laoreet odio nostra" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Non maecenas orci praesent" Property2="Pede per quam natoque" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Accumsan quis ornare" Fecha="January 19, 2004" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Bibendum sem sit vel" Property2="Nam sed" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Primis rutrum urna posuere" Property2="Sapien purus semper cras" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Dictumst potenti dis duis" Property2="Pretium eleifend est risus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Facilisi sociis" Property2="Taciti hac rhoncus leo" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Mus nec" Property2="Velit faucibus vitae habitant" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Nunc sodales non" Property2="Per sed viverra tellus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Sem aliquam" Property2="Amet tempor class integer" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Quisque curae sit vivamus" Property2="Inceptos aliquam aliquet interdum" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Donec vel etiam" Property2="Tempus nam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Ante tortor fusce arcu" Property2="Lorem blandit sed" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Turpis dis" Fecha="December 22, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Hac diam leo eget" Property2="Mus conubia cubilia" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Lobortis nec elit" Property2="Non varius per" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Enim morbi erat dapibus" Property2="Sed egestas aenean mauris" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Nullam sem" Property2="Nulla nascetur aptent proin" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Pharetra placerat" Property2="Augue eros euismod" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Nibh dolor feugiat" Property2="Gravida auctor fames" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Pulvinar iaculis felis congue" Property2="Ipsum lacinia" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Nisi sagittis" Property2="Justo senectus sociosqu" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Lacus lorem" Property2="Cursus nisl magna sit" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Dictum nunc" Property2="Lectus odio" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Massa orci" Fecha="August 23, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Pede metus posuere" Property2="Libero potenti ligula quam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Nam sed quis dis" Property2="Est urna cras hac" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Leo litora torquent morbi" Property2="Mus luctus neque" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Ultrices duis nec" Property2="Magnis non per" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Netus nulla mattis mauris" Property2="Pretium rhoncus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Vehicula mollis sodales nunc" Property2="Amet volutpat sed porta" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Sem ante maecenas" Property2="Montes praesent" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Purus arcu" Property2="Diam viverra accumsan" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Nostra ornare risus bibendum" Property2="Velit vitae" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Platea eget primis sit" Property2="Rutrum sapien semper" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Sociis elit taciti" Fecha="May 27, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Aliquam tellus dictumst" Property2="Vel eros integer nibh" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Tempor tempus tortor eleifend" Property2="Nisi quisque vivamus nam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Nisl nunc sed" Property2="Dis odio" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Aliquam est" Property2="Donec hac" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Facilisi etiam" Property2="Turpis fusce orci lorem" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Leo faucibus aliquet varius" Property2="Mus habitant" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Aenean pede mauris blandit" Property2="Nec inceptos nullam interdum" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Quam morbi lobortis commodo" Property2="Aptent non" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Quis per urna sed" Property2="Nulla conubia sem" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Nascetur cras" Property2="Pharetra sit placerat proin" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Duis augue pulvinar dolor" Fecha="May 24, 2006" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Vel congue nam" Property2="Cursus fames amet cubilia" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Felis dictum sagittis" Property2="Lectus libero dapibus egestas" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Sed dis" Property2="Est ligula euismod hac" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Ipsum feugiat" Property2="Gravida senectus litora iaculis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Leo luctus justo" Property2="Lacus ante sociosqu" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Lacinia arcu" Property2="Magnis mattis diam mauris" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Suscipit torquent laoreet" Property2="Eget mollis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Mus natoque elit enim" Property2="Nec lorem" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Non magna massa posuere" Property2="Per sed erat" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Ultrices sem" Property2="Vehicula montes sit eros" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Vel nam" Fecha="September 19, 2004" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Nibh metus volutpat morbi" Property2="Pretium maecenas" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Neque nisi sed" Property2="Primis dis nisl" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Netus est nunc" Property2="Odio hac praesent" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Orci rutrum" Property2="Leo pede" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Rhoncus mus" Property2="Sapien quam sodales nulla" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Nec semper porta quis" Property2="Sociis taciti" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Accumsan bibendum" Property2="Non dictumst" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Tellus viverra" Property2="Aliquam eleifend per urna" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Facilisi tempor cras sed" Property2="Sem integer sit" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Quisque duis vel purus" Property2="Nam vivamus aliquam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Faucibus risus sed" Fecha="August 10, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Nunc inceptos aliquet blandit" Property2="Est amet" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Hac leo ante" Property2="Velit interdum arcu diam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Vitae eget lobortis" Property2="Mus commodo class elit" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Tortor conubia nascetur curae" Property2="Enim pharetra erat donec" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Nec eros turpis" Property2="Cubilia dapibus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Varius placerat" Property2="Pulvinar sagittis etiam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Senectus egestas euismod sociosqu" Property2="Fusce suscipit non" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Nibh feugiat nisi" Property2="Aenean torquent lorem" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Morbi mauris" Property2="Ultrices vehicula nullam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Per nisl aptent" Property2="Nunc sed" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Gravida volutpat" Fecha="September 20, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Auctor lacinia congue orci" Property2="Sit cursus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Laoreet natoque dictum lectus" Property2="Pede vel nulla maecenas" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Nam praesent posuere quam" Property2="Potenti quis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Urna pretium libero" Property2="Proin accumsan ligula rhoncus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Litora sodales bibendum dictumst" Property2="Augue sed eleifend" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Luctus dis viverra" Property2="Dolor aliquam integer" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Quisque vivamus" Property2="Fames cras" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Felis facilisi" Property2="Faucibus magnis duis est" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Habitant aliquam" Property2="Nunc mattis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Inceptos aliquet hac" Property2="Leo amet" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Maecenas aliquam" Fecha="November 5, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Nam aenean" Property2="Sed cras maecenas mauris" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Aliquam integer nullam aptent" Property2="Praesent class duis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Curae dis" Property2="Donec etiam est" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Hac auctor fusce accumsan" Property2="Leo nunc quisque congue" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Vivamus lorem cursus morbi" Property2="Dictum nulla" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Proin lectus" Fecha="December 29, 2006" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Bibendum libero augue" Property2="Mus nec non" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Ligula aliquam litora" Property2="Dolor per" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Fames dictumst sed felis" Property2="Luctus aliquet" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Sem ipsum" Property2="Justo lacus amet" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Lorem eleifend magnis" Property2="Ante blandit magna" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Sit vel" Fecha="January 19, 2004" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Facilisi mattis faucibus" Property2="Mauris massa mollis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Nam arcu habitant" Property2="Sed inceptos montes" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Diam commodo eget metus" Property2="Nostra conubia interdum" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Dis cubilia ornare est" Property2="Hac leo dapibus mus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Morbi platea egestas" Property2="Elit enim primis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Neque netus" Fecha="December 22, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Rutrum nulla" Property2="Erat sapien lobortis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Porta semper nec" Property2="Purus sociis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Euismod nascetur feugiat gravida" Property2="Non iaculis per" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Risus sed velit" Property2="Vitae class pharetra curae" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Lacinia donec taciti tellus" Property2="Sem laoreet" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Tempor sit placerat" Fecha="August 23, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Eros tempus pulvinar nibh" Property2="Vel sagittis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Tortor nam turpis" Property2="Varius etiam fusce natoque" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Nisi posuere lorem sed" Property2="Nisl senectus morbi sociosqu" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Dis est aenean potenti" Property2="Suscipit nulla pretium" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Torquent ultrices mauris" Property2="Vehicula nullam hac" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Proin leo mus augue" Fecha="May 27, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Volutpat dolor aptent fames" Property2="Maecenas praesent felis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Nec accumsan" Property2="Nunc bibendum non per" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Auctor rhoncus sodales" Property2="Dictumst odio congue" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Ipsum cursus orci" Property2="Justo viverra" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Sed dictum" Property2="Eleifend lectus aliquam" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Integer quisque libero" Fecha="May 24, 2006" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Pede vivamus quam" Property2="Lacus aliquam ligula" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Sem sit vel aliquet" Property2="Facilisi quis faucibus blandit" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Habitant nam urna inceptos" Property2="Sed dis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Lorem commodo interdum" Property2="Litora lobortis nascetur cras" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Duis pharetra placerat magna" Property2="Est massa nunc pulvinar" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Amet ante arcu sagittis" Fecha="September 19, 2004" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Diam hac" Property2="Metus morbi conubia eget" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Elit cubilia enim" Property2="Dapibus senectus erat egestas" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Luctus euismod eros magnis" Property2="Sociosqu feugiat mattis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Suscipit neque torquent nibh" Property2="Leo netus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Ultrices vehicula" Property2="Gravida volutpat mauris iaculis" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Maecenas mus lacinia" Fecha="August 10, 2003" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" Property4="True">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Nec non" Property2="Nisi per nisl" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+        <EjemploDatos:Item Property1="Laoreet sed praesent mollis" Property2="Sem montes nostra nulla" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Natoque sit nunc porta" Property2="Ornare platea" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Accumsan bibendum" Property2="Odio orci purus" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Risus velit vitae" Property2="Vel class" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+    <EjemploDatos:Group Nombre="Nam sed curae posuere" Fecha="September 20, 2007" Imagen="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" Property4="False">
+      <EjemploDatos:Group.Items>
+        <EjemploDatos:Item Property1="Dictumst primis" Property2="Dis donec potenti" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image01.png" />
+        <EjemploDatos:Item Property1="Etiam eleifend" Property2="Facilisi fusce" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image02.png" />
+        <EjemploDatos:Item Property1="Pede est" Property2="Lorem pretium" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image03.png" />
+        <EjemploDatos:Item Property1="Morbi hac rutrum" Property2="Rhoncus quam quis urna" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image04.png" />
+        <EjemploDatos:Item Property1="Leo sodales viverra aliquam" Property2="Faucibus sapien habitant nulla" Property3="ms-appx:/SampleData/EjemploDatos/EjemploDatos_Files/image05.png" />
+      </EjemploDatos:Group.Items>
+    </EjemploDatos:Group>
+  </EjemploDatos:EjemploDatos.Groups>
+</EjemploDatos:EjemploDatos>
